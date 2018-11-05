@@ -16,9 +16,24 @@ Please feel free to pull requests to add links.
 
 ## Papers
 
-* [KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
+### Recommendation System
+
+
+* DKN: Deep Knowledge-Aware Network for News Recommendation (2018). Hongwei Wang et al. [[PDF]](https://enricopal.github.io/enricopal.github.io/publications/entity2rec.pdf), [[Code]](https://github.com/D2KLab/entity2rec)
+* entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation (2017). Enrico Palumbo et al. [[PDF]](https://enricopal.github.io/enricopal.github.io/publications/entity2rec.pdf), [[Code]](https://github.com/D2KLab/entity2rec)
+* Interactive Recommendations by Combining User-Item Preferences with Linked Open Data (2018). 	Surya Kallumadi, William H. Hsu. [[PDF]](http://kdd.cs.ksu.edu/Publications/Conference/kallumadi2018interactive.pdf)
+* Knowledge Graph Embeddings with node2vecfor Item Recommendation (2018). [[PDF]](http://www.eurecom.fr/fr/publication/5583/download/data-publi-5583.pdf)
+
+
+* WhySoMuch: Recommendation System Using User-Item Profile Builded by Knowledge Graph. [[Link]](https://github.com/BaeSeulki/WhySoMuch)
+
+### Knowledge Representation Learning (KRL) / Knowledge Embedding (KE)
+
+* KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
+
 
 ### Survey
+
 
 * 知识图谱研究进展 (2017), 漆桂林等人. [[PDF]](http://tie.istic.ac.cn/ch/reader/create_pdf.aspx?file_no=201701002&flag=&journal_id=qbgc&year_id=2017)
 * 知识图谱构建技术综述 (2016), 刘峤等人. [[PDF]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3127)
@@ -26,7 +41,6 @@ Please feel free to pull requests to add links.
 * 知识图谱：大数据语义链接的基石 (2014), 李涓子. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_ljz.pdf)
 * 垂直知识图谱构造工具与行业应用 (2014), 阮彤. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_rt.pdf)
 
-### Curated list
 
 
 ## Datasets
