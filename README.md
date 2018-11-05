@@ -29,6 +29,7 @@ Please feel free to pull requests to add links.
 
 ### Knowledge Representation Learning (KRL) / Knowledge Embedding (KE)
 
+* Knowledge Graph Embedding: A Survey of Approaches and Applications (2017). Quan Wang, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8047276/)
 * KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
 
 
