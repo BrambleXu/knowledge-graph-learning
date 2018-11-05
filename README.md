@@ -10,25 +10,36 @@ Please feel free to pull requests to add links.
 * **[Courses and Lectures](#courses-and-lectures)**
 * **[Datasets](#datasets)**
 * **[Implementations and Tools](#implementations-and-tools)**
+* **[Community](#community)**
+
 <!--* **[Articles](#articles)**-->
 
 ## Papers
 
-### Survey/综述
+* [KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
 
-* 知识图谱研究进展 (2017), 漆桂林等人. [[pdf]](http://tie.istic.ac.cn/ch/reader/create_pdf.aspx?file_no=201701002&flag=&journal_id=qbgc&year_id=2017)
-* 知识图谱构建技术综述 (2016), 刘峤等人. [[pdf]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3127)
+### Survey
+
+* 知识图谱研究进展 (2017), 漆桂林等人. [[PDF]](http://tie.istic.ac.cn/ch/reader/create_pdf.aspx?file_no=201701002&flag=&journal_id=qbgc&year_id=2017)
+* 知识图谱构建技术综述 (2016), 刘峤等人. [[PDF]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3127)
+* 知识图谱技术综述 (2016), 徐增林等人. [[PDF]](http://www.xml-data.org/dzkj-nature/html/201645589.htm)
+* 知识图谱：大数据语义链接的基石 (2014), 李涓子. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_ljz.pdf)
+* 垂直知识图谱构造工具与行业应用 (2014), 阮彤. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_rt.pdf)
+
+### Curated list
 
 
 ## Datasets
 
-* [OpenKG.CN](http://openkg.cn/dataset)
+* [OpenKG.CN Datasets List](http://openkg.cn/dataset)
+* [Zhishi.me]()
 
 ## Implementations and Tools
 
 ### Implementations
 
 * [Knowledge Graph Demo (上市公司高管图谱)](https://github.com/Shuang0420/knowledge_graph_demo), [文章](http://www.shuang0420.com/2017/09/05/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98-%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%88%9D%E6%8E%A2/)
+* [KGQA_HLM (红楼梦 人物关系可视化及问答系统)](https://github.com/chizhu/KGQA_HLM)
 
 
 ### Tools
@@ -38,6 +49,7 @@ Please feel free to pull requests to add links.
 * [cnSchema - 开放的中文知识图谱schema](https://github.com/cnschema/cnschema)
 * [知识图谱API](https://github.com/ownthink/KnowledgeGraph)
 * [OpenKE: An Open-source Framework for Knowledge Embedding](https://github.com/thunlp/OpenKE)
+* [Zhishi.me: Chinese Linking Open Data Online API](http://zhishi.me/)
 
 ## Community
 
