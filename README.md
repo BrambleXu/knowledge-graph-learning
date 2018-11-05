@@ -41,7 +41,7 @@ Please feel free to pull requests to add links.
 
 ## Community
 
-* [开放的中文知识图谱](http://openkg.cn/)
+* [OpenKG.CN (开放的中文知识图谱)](http://openkg.cn/)
 * [北京知识图谱学习小组](https://github.com/memect/kg-beijing)
 
 
