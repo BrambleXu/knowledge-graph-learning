@@ -20,7 +20,7 @@ Please feel free to pull requests to add links.
 
 ### Recommendation System
 
-
+* An Empirical Comparison of Knowledge GraphEmbeddings for Item Recommendation (2018). Enrico Palumbo et al. [[PDF]](http://ceur-ws.org/Vol-2106/paper2.pdf)
 * DKN: Deep Knowledge-Aware Network for News Recommendation (2018). Hongwei Wang et al. [[PDF]](https://enricopal.github.io/enricopal.github.io/publications/entity2rec.pdf), [[Code]](https://github.com/D2KLab/entity2rec)
 * entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation (2017). Enrico Palumbo et al. [[PDF]](https://enricopal.github.io/enricopal.github.io/publications/entity2rec.pdf), [[Code]](https://github.com/D2KLab/entity2rec)
 * Interactive Recommendations by Combining User-Item Preferences with Linked Open Data (2018). 	Surya Kallumadi, William H. Hsu. [[PDF]](http://kdd.cs.ksu.edu/Publications/Conference/kallumadi2018interactive.pdf)
