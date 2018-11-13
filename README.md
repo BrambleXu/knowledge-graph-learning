@@ -20,7 +20,6 @@ Please feel free to pull requests to add links.
 
 ### Recommendation System
 
-
 * Computing recommendations via a Knowledge Graph-aware Autoencoder (2018). Vito Bellini et al. [[PDF]](https://arxiv.org/abs/1807.05006)
 * An Empirical Comparison of Knowledge GraphEmbeddings for Item Recommendation (2018). Enrico Palumbo et al. [[PDF]](http://ceur-ws.org/Vol-2106/paper2.pdf)
 * DKN: Deep Knowledge-Aware Network for News Recommendation (2018). Hongwei Wang et al. [[PDF]](https://arxiv.org/abs/1801.08284), [[Code]](https://github.com/hwwang55/DKN)
@@ -28,14 +27,12 @@ Please feel free to pull requests to add links.
 * Interactive Recommendations by Combining User-Item Preferences with Linked Open Data (2018). 	Surya Kallumadi, William H. Hsu. [[PDF]](http://kdd.cs.ksu.edu/Publications/Conference/kallumadi2018interactive.pdf)
 * Knowledge Graph Embeddings with node2vecfor Item Recommendation (2018). [[PDF]](http://www.eurecom.fr/fr/publication/5583/download/data-publi-5583.pdf)
 
-
 * WhySoMuch: Recommendation System Using User-Item Profile Builded by Knowledge Graph. [[Link]](https://github.com/BaeSeulki/WhySoMuch)
 
 ### Knowledge Representation Learning (KRL) / Knowledge Embedding (KE)
 
 * Knowledge Graph Embedding: A Survey of Approaches and Applications (2017). Quan Wang, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8047276/)
 * KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
-
 
 ### Survey
 
@@ -68,6 +65,7 @@ Please feel free to pull requests to add links.
 
 ### Tools
 
+* [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive), [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md)
 * [HanLP: Han Language Processing（汉语言处理包）](https://github.com/hankcs/HanLP)
 * [句法依存分析抽取事实三元组](https://github.com/twjiang/fact_triple_extraction)
 * [cnSchema - 开放的中文知识图谱schema](https://github.com/cnschema/cnschema)
