@@ -47,6 +47,11 @@ Please feel free to pull requests to add links.
 * 垂直知识图谱构造工具与行业应用 (2014), 阮彤. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_rt.pdf)
 
 
+## Courses and Lectures
+
+* [从零开始构建知识图谱（知乎专栏）](https://zhuanlan.zhihu.com/c_1018901137012928512)
+
+
 
 ## Datasets
 
