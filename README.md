@@ -66,6 +66,9 @@ Please feel free to pull requests to add links.
 * [Knowledge Graph Demo (上市公司高管图谱)](https://github.com/Shuang0420/knowledge_graph_demo), [文章](http://www.shuang0420.com/2017/09/05/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98-%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%88%9D%E6%8E%A2/)
 * [KGQA_HLM (红楼梦 人物关系可视化及问答系统)](https://github.com/chizhu/KGQA_HLM)
 * [从零开始搭建一个电影知识图谱](https://github.com/Pelhans/Z_knowledge_graph)
+* [基于elasticsearch的KBQA实现及示例](http://www.openkg.cn/tool/elasticsearch-kbqa)
+
+
 
 ### Tools
 
