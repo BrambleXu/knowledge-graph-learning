@@ -72,6 +72,7 @@ Please feel free to pull requests to add links.
 
 ### Tools
 
+* [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/), [NER paper](https://github.com/thunlp/NREPapers)
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive), [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md)
 * [HanLP: Han Language Processing（汉语言处理包）](https://github.com/hankcs/HanLP)
 * [句法依存分析抽取事实三元组](https://github.com/twjiang/fact_triple_extraction)
