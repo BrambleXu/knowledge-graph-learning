@@ -46,6 +46,7 @@ Please feel free to pull requests to add links.
 * 知识图谱技术综述 (2016), 徐增林等人. [[PDF]](http://www.xml-data.org/dzkj-nature/html/201645589.htm)
 * 知识图谱：大数据语义链接的基石 (2014), 李涓子. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_ljz.pdf)
 * 垂直知识图谱构造工具与行业应用 (2014), 阮彤. [[PPT]](http://bj.bcebos.com/cips-upload/kg2/kg2_rt.pdf)
+* [Summary of Translate Model for Knowledge Graph Embedding](https://medium.com/@zhuixiyou/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273)
 
 
 ## Courses and Lectures
