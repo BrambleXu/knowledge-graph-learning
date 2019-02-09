@@ -7,6 +7,7 @@ Please feel free to pull requests to add links.
 ## Table of Contents
 
 * **[Papers](#papers)**
+* **[Useful Articles](#useful-articles)**
 * **[Researchers](#researchers)**
 * **[Courses and Lectures](#courses-and-lectures)**
 * **[Datasets](#datasets)**
@@ -33,9 +34,16 @@ Please feel free to pull requests to add links.
 * Knowledge Graph Embedding: A Survey of Approaches and Applications (2017). Quan Wang, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8047276/)
 * KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
 
-### 
+
+## Useful Articles
 
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
+* [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
+
+
+### Event Extraction
+
+* [事件抽取与金融事件图谱构建](https://www.jiqizhixin.com/articles/2018-10-17-12)
 
 
 ### Survey
@@ -52,7 +60,6 @@ Please feel free to pull requests to add links.
 ## Courses and Lectures
 
 * [从零开始构建知识图谱（知乎专栏）](https://zhuanlan.zhihu.com/c_1018901137012928512)
-
 
 
 ## Datasets
