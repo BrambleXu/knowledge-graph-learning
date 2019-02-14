@@ -35,10 +35,16 @@ Please feel free to pull requests to add links.
 * KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
 
 
-## Useful Articles
+## Useful Articles/Slides
 
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
 * [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
+
+### Relation Extraction
+
+* [A SURVEY ON RELATION EXTRACTION (CMU)](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)
+* [Relation Extraction: CSE 517: Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtraction.pdf)
+* [Relation Extraction II: CSE 517: Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)
 
 
 ### Event Extraction
