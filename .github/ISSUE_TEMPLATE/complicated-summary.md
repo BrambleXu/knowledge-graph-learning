@@ -1,9 +1,9 @@
 ---
-name: Paper List
-about: Reading paper templete
-title: 
-labels: 
-assignees: 
+name: Complicated Summary
+about: 需要填写较多内容的模板
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
