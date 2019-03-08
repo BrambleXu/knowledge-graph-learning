@@ -1,6 +1,6 @@
 ---
 name: Simple Summary
-about: 一句话总结 + 概要
+about: 简单总结 + 概要
 title: Title (Con-Year/Month)
 labels: ''
 assignees: BrambleXu
