@@ -7,7 +7,7 @@ Please feel free to pull requests to add links.
 ## Table of Contents
 
 * **[Papers](#papers)**
-* **[Useful Articles/Slides](#useful-articles)**
+* **[Useful Articles/Slides](#useful-articlesslides)**
 * **[Courses and Lectures](#courses-and-lectures)**
 * **[Datasets](#datasets)**
 * **[Implementations and Tools](#implementations-and-tools)**
