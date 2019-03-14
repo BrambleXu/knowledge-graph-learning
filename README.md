@@ -7,8 +7,7 @@ Please feel free to pull requests to add links.
 ## Table of Contents
 
 * **[Papers](#papers)**
-* **[Useful Articles](#useful-articles)**
-* **[Researchers](#researchers)**
+* **[Useful Articles/Slides](#useful-articles)**
 * **[Courses and Lectures](#courses-and-lectures)**
 * **[Datasets](#datasets)**
 * **[Implementations and Tools](#implementations-and-tools)**
@@ -54,7 +53,7 @@ Please feel free to pull requests to add links.
 
 ### Survey
 
-
+* Deep Learning in Knowledge Graph (2018), [[Note]](https://github.com/BrambleXu/knowledge-graph-learning/issues/31)
 * 知识图谱研究进展 (2017), 漆桂林等人. [[PDF]](http://tie.istic.ac.cn/ch/reader/create_pdf.aspx?file_no=201701002&flag=&journal_id=qbgc&year_id=2017)
 * 知识图谱构建技术综述 (2016), 刘峤等人. [[PDF]](http://crad.ict.ac.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3127)
 * 知识图谱技术综述 (2016), 徐增林等人. [[PDF]](http://www.xml-data.org/dzkj-nature/html/201645589.htm)
