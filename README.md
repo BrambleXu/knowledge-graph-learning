@@ -69,8 +69,9 @@ Please feel free to pull requests to add links.
 
 ## Datasets
 
-* [OpenKG.CN Datasets List](http://openkg.cn/dataset)
-* [Zhishi.me]()
+* [Annotated-Semantic-Relationships-Datasets(English)](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
+* [OpenKG.CN Datasets List(Chinese)](http://openkg.cn/dataset)
+* [Zhishi.me(Chinese)](http://zhishi.me/)
 
 ## Implementations and Tools
 
