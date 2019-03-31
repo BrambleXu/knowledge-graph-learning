@@ -80,6 +80,7 @@ Please feel free to pull requests to add links.
 * [KGQA_HLM (红楼梦 人物关系可视化及问答系统)](https://github.com/chizhu/KGQA_HLM)
 * [从零开始搭建一个电影知识图谱](https://github.com/Pelhans/Z_knowledge_graph)
 * [基于elasticsearch的KBQA实现及示例](http://www.openkg.cn/tool/elasticsearch-kbqa)
+* [电影知识图谱以及KBQA实现](https://github.com/SimmerChan/KG-demo-for-movie), [知乎文章](https://zhuanlan.zhihu.com/p/33363861)
 
 
 
