@@ -87,6 +87,7 @@ Please feel free to pull requests to add links.
 
 ### Tools
 
+* [Annotation tool: doccano](https://github.com/chakki-works/doccano)
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/), [NER paper](https://github.com/thunlp/NREPapers)
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive), [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md)
 * [HanLP: Han Language Processing（汉语言处理包）](https://github.com/hankcs/HanLP)
