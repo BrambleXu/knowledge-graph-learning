@@ -69,6 +69,13 @@ Please feel free to pull requests to add links.
 
 ## Datasets
 
+### Relation Extraction Dataset
+
+- [SemEval-2010 Task 8](https://github.com/sahitya0000/Relation-Classification)
+- [TACRED(charge)](https://nlp.stanford.edu/projects/tacred/)
+
+### Open datasets
+
 * [Annotated-Semantic-Relationships-Datasets(English)](https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets)
 * [OpenKG.CN Datasets List(Chinese)](http://openkg.cn/dataset)
 * [Zhishi.me(Chinese)](http://zhishi.me/)
