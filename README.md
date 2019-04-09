@@ -71,7 +71,7 @@ Please feel free to pull requests to add links.
 
 ### Relation Extraction Dataset
 
-- [SemEval-2010 Task 8](https://github.com/sahitya0000/Relation-Classification)
+- [SemEval-2010 Task 8](https://github.com/sahitya0000/Relation-Classification), [link 2](https://github.com/shashwath94/Relation-Extraction-using-CNN)
 - [TACRED(charge)](https://nlp.stanford.edu/projects/tacred/)
 
 ### Open datasets
