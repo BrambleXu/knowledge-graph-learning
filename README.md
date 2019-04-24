@@ -94,6 +94,7 @@ Please feel free to pull requests to add links.
 
 ### Tools
 
+* [[Resource] Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131)
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano)
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/), [NER paper](https://github.com/thunlp/NREPapers)
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive), [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md)
