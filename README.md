@@ -1,4 +1,5 @@
 # awesome-knowledge-graph[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of awesome knowledge graph tutorials, projects and communities.
 Both Chinese and English resource are listed in language respectively.
 Please feel free to pull requests to add links.
@@ -17,24 +18,59 @@ Please feel free to pull requests to add links.
 
 ## Papers
 
-### Recommendation System
+I write notes of paper and post them in the issue. It is written in Chinese. Feel free to post your notes no matter what language you use.
 
-* Computing recommendations via a Knowledge Graph-aware Autoencoder (2018). Vito Bellini et al. [[PDF]](https://arxiv.org/abs/1807.05006)
-* An Empirical Comparison of Knowledge GraphEmbeddings for Item Recommendation (2018). Enrico Palumbo et al. [[PDF]](http://ceur-ws.org/Vol-2106/paper2.pdf)
-* DKN: Deep Knowledge-Aware Network for News Recommendation (2018). Hongwei Wang et al. [[PDF]](https://arxiv.org/abs/1801.08284), [[Code]](https://github.com/hwwang55/DKN)
-* entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation (2017). Enrico Palumbo et al. [[PDF]](https://enricopal.github.io/enricopal.github.io/publications/entity2rec.pdf), [[Code]](https://github.com/D2KLab/entity2rec)
-* Interactive Recommendations by Combining User-Item Preferences with Linked Open Data (2018). 	Surya Kallumadi, William H. Hsu. [[PDF]](http://kdd.cs.ksu.edu/Publications/Conference/kallumadi2018interactive.pdf)
-* Knowledge Graph Embeddings with node2vecfor Item Recommendation (2018). [[PDF]](http://www.eurecom.fr/fr/publication/5583/download/data-publi-5583.pdf)
+**Knowledge Graph Related task**
 
-* WhySoMuch: Recommendation System Using User-Item Profile Builded by Knowledge Graph. [[Link]](https://github.com/BaeSeulki/WhySoMuch)
 
-### Knowledge Representation Learning (KRL) / Knowledge Embedding (KE)
+- [Information Extraction/Open IE](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AIE%28T%29+)
+- [Knowledge Graph Population/Construction Task](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AKGP%2FKGC%28T%29+)
+- [Knowledge Base Completion](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AKBP%28T%29+)
+- [Knowledge Representation Learning & Knowledge Embedding](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AKRL%2FKE%28T%29+)
+- [Knowledge based Recommendation System](https://github.com/BrambleXu/knowledge-graph-learning/issues/250)
+- [Named Entity Linking](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ANEL%28T%29+)
+- [Named Entity Recognition](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ANER%28T%29+)
+- [Ontology-based information extraction](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AOBIE%28T%29+)
+- [Relation Extraction](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ARE%28T%29+)
+- [Semantic Role Labeling](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ASRL%28T%29+)
 
-* Knowledge Graph Embedding: A Survey of Approaches and Applications (2017). Quan Wang, et al. [[PDF]](https://ieeexplore.ieee.org/abstract/document/8047276/)
-* KRLPapers: Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE). [[Link]](https://github.com/thunlp/KRLPapers)
+<details><summary>other non-related task paper</summary>
+<p>
+
+**Tag with task**
+
+- [Annotation](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AAnnotation%28T%29+)
+- [Coreference Resolution](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ACR%28T%29+)
+- [Data Augmentation](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=is%3Aopen+is%3Aissue+label%3ADataAug%28T%29)
+- [Dependency Parsing](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ADP%28T%29+)
+- [Domain Adaptation/Domain Specific](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ADA%28T%29+)
+- [Natural Language Understanding](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ANLU%28T%29+)
+- [Neural Machine Translation](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ANMT%28T%29+)
+- [Question Answering/Machine Comprehension](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AQA%28T%29+)
+- [Recommendation](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=is%3Aopen+is%3Aissue+label%3ARecommendation%28T%29)
+- [Relational Reasoning](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=label%3ARR%28T%29)
+- [Summarization](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=is%3Aopen+is%3Aissue+label%3ASummarization%28T%29)
+- [Slot Filling](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ASF%28T%29+)
+- [Text Classification](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=label%3ATC%28T%29)
+
+
+**Tag with Model**
+
+- [BERT](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=label%3ABERT%28M%29)
+- [Embedding/Pre-train Model/Task](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AEmbedding+)
+- [End-to-end Model](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AE2E%28M%29+)
+- [Graph Neural Network](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AGNN%28M%29+)
+- [Multi-Task/Joint Learning](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AMTL%28M%29+)
+- [Transformer Based Model](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ATransformer%28M%29+)
+
+</p>
+</details>
+
 
 
 ## Useful Articles/Slides
+
+
 
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
 * [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
