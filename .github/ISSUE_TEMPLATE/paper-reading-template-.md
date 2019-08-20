@@ -1,6 +1,6 @@
 ---
-name: 规范化的模板
-about: 一句话总结，资源，关键词，笔记，模型图，结果
+name: 'Paper Reading Template '
+about: Write paper reading notes in template
 title: Con-Date-Titile
 labels: ''
 assignees: BrambleXu
