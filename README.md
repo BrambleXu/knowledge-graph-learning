@@ -24,8 +24,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 
 - [Information Extraction/Open IE](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AIE%28T%29+)
-- [Knowledge Graph Population/Construction Task](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AKGP%2FKGC%28T%29+)
-- [Knowledge Base Completion](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AKBP%28T%29+)
+- [Knowledge Graph Population/Construction Task](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AKGP%2FKGC%28T%29+): Construct a Knowledge Graph from Different Sources
+- [Knowledge Base Completion](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AKBP%28T%29+): Entity Prediction or Link Prediction
 - [Knowledge Representation Learning & Knowledge Embedding](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=%E2%9C%93&q=label%3AKRL%2FKGE%28%28T%2FM%29+)
 - [Knowledge based Recommendation System](https://github.com/BrambleXu/knowledge-graph-learning/issues/250)
 - [Named Entity Linking](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ANEL%28T%29+)
@@ -71,7 +71,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 ## Useful Articles/Slides
 
 
-
+* [Mining Knowledge Graphs from Text: A Tutorial](https://kgtutorial.github.io)
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
 * [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
 
