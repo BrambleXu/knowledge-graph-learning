@@ -25,7 +25,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 - [Information Extraction/Open IE](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AIE%28T%29+)
 - [Knowledge Graph Population/Construction Task](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3AKGP%2FKGC%28T%29+): Construct a Knowledge Graph from Different Sources
-- [Knowledge Base Completion](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AKBP%28T%29+): Entity Prediction or Link Prediction
+- [Knowledge Base Completion/Knowledge Graph Reasoning](https://github.com/BrambleXu/knowledge-graph-learning/issues?q=is%3Aissue+is%3Aopen+label%3AKBC%2FKGR%28T%29): Entity Prediction or Link Prediction
 - [Knowledge Representation Learning & Knowledge Embedding](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=%E2%9C%93&q=label%3AKRL%2FKGE%28%28T%2FM%29+)
 - [Knowledge based Recommendation System](https://github.com/BrambleXu/knowledge-graph-learning/issues/250)
 - [Named Entity Linking](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3ANEL%28T%29+)
