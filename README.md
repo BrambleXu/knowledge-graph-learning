@@ -70,8 +70,9 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 ## Useful Articles/Slides
 
-* [Getting Started with Knowledge Graphs](https://www.slideshare.net/phaase/getting-started-with-knowledge-graphs)
-* [Mining Knowledge Graphs from Text: A Tutorial](https://kgtutorial.github.io)
+* [Getting Started with Knowledge Graphs](https://www.slideshare.net/phaase/getting-started-with-knowledge-graphs) from metaphacts
+* [Mining Knowledge Graphs from Text: A Tutorial](https://kgtutorial.github.io) from WSDM 2018 Tutorial
+* [Knowledge Graphs - The Power of Graph-Based Search](https://www.slideshare.net/neo4j/knowledge-graphs-the-power-of-graphbased-search) from Neo4j
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
 * [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
 
