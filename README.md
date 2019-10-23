@@ -70,7 +70,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 ## Useful Articles/Slides
 
-* [Enterprise	Knowledge	Graphs for Large	Scale	Analytics](https://cci.drexel.edu/bigdata/bigdata2017/files/Tutorial1-1.pdf)
+* [Knowledge Extraction and Inference from Text (KDD 2018 Tutorial)](https://sites.google.com/site/keit2018kdd/)
+* [Enterprise	Knowledge	Graphs for Large	Scale	Analytics](https://cci.drexel.edu/bigdata/bigdata2017/files/Tutorial1-1.pdf) from IBM
 * [Getting Started with Knowledge Graphs](https://www.slideshare.net/phaase/getting-started-with-knowledge-graphs) from metaphacts
 * [Mining Knowledge Graphs from Text: A Tutorial](https://kgtutorial.github.io) from WSDM 2018 Tutorial
 * [Knowledge Graphs - The Power of Graph-Based Search](https://www.slideshare.net/neo4j/knowledge-graphs-the-power-of-graphbased-search) from Neo4j
