@@ -136,7 +136,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 ### Tools
 
 * [[Resource] Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131)
-* [InteractiveGraph](https://github.com/grapheco/InteractiveGraph)
+* [InteractiveGraph](https://github.com/grapheco/InteractiveGraph): [中文介绍](https://blog.csdn.net/bluejoe2000/article/details/104333111)
 * [Annotation tool: doccano](https://github.com/chakki-works/doccano)
 * [OpenNRE: An Open-Source Package for Neural Relation Extraction (NRE) implemented in TensorFlow](https://github.com/thunlp/OpenNRE/), [NER paper](https://github.com/thunlp/NREPapers)
 * [DeepDive: a system to extract value from dark data](https://github.com/HazyResearch/deepdive), [Homepage](http://deepdive.stanford.edu/), [Papers](https://github.com/HazyResearch/deepdive/blob/master/doc/papers.md)
