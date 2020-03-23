@@ -79,6 +79,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [Knowledge Integration in Practice](https://www.slideshare.net/pmika/knowledge-integration-in-practice) from YAHOO
 * [知识图谱论文合集](https://zhuanlan.zhihu.com/p/44904796)
 * [知识图谱入门 (三)](http://pelhans.com/2018/03/19/xiaoxiangkg-note3/#%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96)
+* [知识图谱上的实体链接](http://blog.openkg.cn/%e6%8a%80%e6%9c%af%e5%8a%a8%e6%80%81-%e7%9f%a5%e8%af%86%e5%9b%be%e8%b0%b1%e4%b8%8a%e7%9a%84%e5%ae%9e%e4%bd%93%e9%93%be%e6%8e%a5/)
+
 
 ### Relation Extraction
 
