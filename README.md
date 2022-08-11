@@ -66,8 +66,6 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 </p>
 </details>
 
-
-
 ## Useful Articles/Slides
 
 * [ontotext blog](https://www.ontotext.com/category/business/)
@@ -116,6 +114,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 - [SemEval-2010 Task 8](https://github.com/sahitya0000/Relation-Classification), [link 2](https://github.com/shashwath94/Relation-Extraction-using-CNN)
 - [TACRED(charge)](https://nlp.stanford.edu/projects/tacred/)
+- [KGHUB and KGOBO, Biomedical ontologies](https://kg-hub.berkeleybop.io/)
+- [PheKnowLator: Heterogeneous Biomedical Knowledge Graphs and Benchmarks Constructed Under Alternative Semantic Models](https://github.com/callahantiff/PheKnowLator)
 
 ### Open datasets
 
@@ -133,8 +133,6 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [基于elasticsearch的KBQA实现及示例](http://www.openkg.cn/tool/elasticsearch-kbqa)
 * [电影知识图谱以及KBQA实现](https://github.com/SimmerChan/KG-demo-for-movie), [知乎文章](https://zhuanlan.zhihu.com/p/33363861)
 
-
-
 ### Tools
 
 * [[Resource] Useful tools & lecture related to data science(中文)](https://github.com/BrambleXu/knowledge-graph-learning/issues/131)
@@ -148,6 +146,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [知识图谱API](https://github.com/ownthink/KnowledgeGraph)
 * [OpenKE: An Open-source Framework for Knowledge Embedding](https://github.com/thunlp/OpenKE)
 * [Zhishi.me: Chinese Linking Open Data Online API](http://zhishi.me/)
+* [PyKEEN](https://github.com/pykeen/pykeen), 🤖 A Python library for learning and evaluating knowledge graph embeddings
+* [🍇 GRAPE](https://github.com/AnacletoLAB/grape), A Rust/Python library for Graph Representation Learning, Predictions and Evaluations
 
 ## Community
 
