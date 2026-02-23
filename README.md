@@ -148,6 +148,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [Zhishi.me: Chinese Linking Open Data Online API](http://zhishi.me/)
 * [PyKEEN](https://github.com/pykeen/pykeen), 🤖 A Python library for learning and evaluating knowledge graph embeddings
 * [🍇 GRAPE](https://github.com/AnacletoLAB/grape), A Rust/Python library for Graph Representation Learning, Predictions and Evaluations
+* [ODEI World Model](https://api.odei.ai): Constitutional world model for AI agents built on Neo4j — 91-node knowledge graph across 6 semantic domains, 7-layer AI safety guardrails, MCP server. [GitHub](https://github.com/odei-ai/web)
 
 ## Community
 
