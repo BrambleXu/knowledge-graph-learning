@@ -149,6 +149,9 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [PyKEEN](https://github.com/pykeen/pykeen), 🤖 A Python library for learning and evaluating knowledge graph embeddings
 * [🍇 GRAPE](https://github.com/AnacletoLAB/grape), A Rust/Python library for Graph Representation Learning, Predictions and Evaluations
 
+
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for autonomous graph reasoning and data enrichment agents on Solana. MCP server for knowledge graph pipeline agent identity verification. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Community
 
 * [OpenKG.CN (开放的中文知识图谱)](http://openkg.cn/)
