@@ -106,6 +106,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 ## Courses and Lectures
 
 * [从零开始构建知识图谱（知乎专栏）](https://zhuanlan.zhihu.com/c_1018901137012928512)
+* [Ontology Training: Taxonomies, Knowledge Graphs and AI](https://tesseract.academy/courses/ontology-training-knowledge-graphs-complete-course/) - free 45-lesson course on RDF, OWL 2, SPARQL and SHACL
 
 
 ## Datasets
